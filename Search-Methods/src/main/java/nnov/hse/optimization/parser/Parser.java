@@ -29,7 +29,6 @@ public class Parser {
                 graph.getEdges().add(new Edge(firstVertex, secondVertex));
             }
         }
-
         return graph;
     }
 
